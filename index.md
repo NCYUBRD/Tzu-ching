@@ -1,10 +1,12 @@
-<span style="font-size: 4em;">
-日期：105/12/03<br/>
-地點：壽山動物園<br/>
-物種：黇鹿<br/></span>
+<style>
+body{
+  font-size: 1.5 em;
+}
+</style>
 
 
 # 動物行為觀察──黇鹿
+
 
 日期：105/12/03
 
