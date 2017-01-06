@@ -1,5 +1,6 @@
 <style>
-body{
+
+#body {
   font-size: 1.5 em;
 }
 </style>
